@@ -1,0 +1,6 @@
+[submodule "3b1b/manim"]
+	path = 3b1b/manim
+	url = https://github.com/nativeit-dev/manim
+[submodule "3b1b/videos"]
+	path = 3b1b/videos
+	url = https://github.com/nativeit-dev/3b1b-videos

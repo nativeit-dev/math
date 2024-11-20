@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"ms-python.debugpy",
+			"kevinrose.vsc-python-indent",
+			"donjayamanne.python-extension-pack",
+			"donjayamanne.python-environment-manager",
+			"tushortz.python-extended-snippets",
+			"mgesbert.python-path",
+			"almenon.arepl"
+		]
+	}
+}
